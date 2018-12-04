@@ -12,7 +12,7 @@ Extract the folder to the downloads folder on your computer, then open it \
 
 Shift + right click in your extracted folder to open up this window, select **Open a command window here** \
 
-![alt text](https://i.gyazo.com/aa05eecfb01da0c6d039adacc4c7ebf4.png) \
+![alt text](https://i.gyazo.com/aa05eecfb01da0c6d039adacc4c7ebf4.png) 
 
 Then type in the command line
 ```

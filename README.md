@@ -1,5 +1,5 @@
 # Emoji-Matcher
-A simple game made for CPSC 231
+A simple game made for CPSC 231 \
 ![alt text](https://i.gyazo.com/cf7a90f058c92d7e3044800838eaf253.png)
 
 # Overview

@@ -20,7 +20,7 @@ Then type in the command line
 python setup.py install --user
 ```
 
-To test that no errors have occured in the installation, open a new command prompt window and type the following commands. \
+To test that no errors have occured in the installation, open a new command prompt window and type the following commands.
 
 First, load python by typing 
 ```

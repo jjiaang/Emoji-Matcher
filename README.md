@@ -28,10 +28,10 @@ Then follow with
 ```
 import stdio
 ```
-If no errors have occured, you have successfully installed the booksite library correctly. \
+If no errors have occured, you have successfully installed the booksite library correctly. 
 
 # How to install
--Extract the Emoji Matcher.zip file into a directory of your choice\
+-Extract the Emoji Matcher.zip file into a directory of your choice
 
 # How to run 
 -First, open up your command prompt or terminal, whichever one you use \

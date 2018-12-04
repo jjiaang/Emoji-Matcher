@@ -1,5 +1,6 @@
 # Emoji-Matcher
 A simple game made for CPSC 231
+![alt text](https://i.gyazo.com/cf7a90f058c92d7e3044800838eaf253.png)
 
 # Overview
 Requires the library stddraw and pygame to be installed by the user in order to run

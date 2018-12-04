@@ -8,6 +8,6 @@ A simple game made for CPSC 231
 -First, open up your command prompt or terminal, whichever one you use
 -Then, cd your directory of where the extracted Emoji Matcher file is located
 -Run the "Game.py" file through your command line, such as
-'''
+```
 python game.py
-'''
+```

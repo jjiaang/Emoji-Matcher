@@ -8,9 +8,9 @@ python -m pip install -U pygame --user
 ```
 # Installation guide for the booksite library (pygame, stddraw)
 Download the booksite library provided the Princeton University. This will be provided in the respository, download this to your **downloads** folder. \
-Extract the folder to the downloads folder on your computer, then open it \
+Extract the folder to the downloads folder on your computer, then open it 
 
-Shift + right click in your extracted folder to open up this window, select **Open a command window here** \
+Shift + right click in your extracted folder to open up this window, select **Open a command window here** 
 
 ![alt text](https://i.gyazo.com/aa05eecfb01da0c6d039adacc4c7ebf4.png) 
 

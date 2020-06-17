@@ -37,11 +37,11 @@ import stdio
 If no errors have occured, you have successfully installed the booksite library correctly. 
 
 # How to install
--Extract the Emoji Matcher.zip file into a directory of your choice
+-Somehow get all of these files into the same directory.
 
 # How to run 
 -First, open up your command prompt or terminal, whichever one you use \
--Then, cd your directory of where the extracted Emoji Matcher file is located \
+-Then, cd your directory of where the files are located
 -Run the "Game.py" file through your command line, such as 
 ```
 python game.py

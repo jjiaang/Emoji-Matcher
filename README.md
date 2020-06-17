@@ -2,6 +2,9 @@
 A simple game made for CPSC 231 \
 ![alt text](https://i.gyazo.com/54e96a8ace78f11492fb410078211f8a.png)
 
+Special thanks to Dr. Sonny Chan for making such a wonderful course to learn programming.
+It wouldn't be the same without you.
+
 The game functions as a basic match 3 game, each emoji itself has a value of 1 point. Match 3 you get 3 points, a match of 4 nets you 4 points, etc.
 
 You're given 15 turns, and you must score about 75 points to win. The game doesn't stop when you reach 75 points, as it only stops when you run out of turns. This is implemented so the player can try and get a high score.
